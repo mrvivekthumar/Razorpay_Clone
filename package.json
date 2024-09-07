@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "feather-icons": "^4.29.1",
+    "tallwind": "file:",
     "vite": "^5.0.11"
   }
 }
